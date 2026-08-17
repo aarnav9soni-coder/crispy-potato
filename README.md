@@ -1,2 +1,1 @@
-# crispy-potato
-The ULTIMATE AI Chatbot
+# Welcome to your Dyad app
